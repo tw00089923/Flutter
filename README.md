@@ -1,7 +1,7 @@
 # startflutter
 
-A new Flutter project.
-[Medium](https://medium.com/@auwit0205/%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8-flutter-345274b5bc76)
+[Medium](https://medium.com/@auwit0205/%E5%88%9D%E6%AD%A5%E4%BD%BF%E7%94%A8-flutter-345274b5bc76) \n
+
 ![ Picture ](https://cdn-images-1.medium.com/max/1600/1*k8JPdem_Hj9ejpgLzDH4uw.gif)
 
 ## Getting Started
